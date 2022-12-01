@@ -1,2 +1,6 @@
-# scripts associated with everything needed to make graphic for nature tools of the trade article.
-pdf copy of the paper is here, too.
+scripts associated with everything needed to make <br>
+graphic for nature tools of the trade article linked <a href = 'https://github.com/albertlarson/nature/blob/main/larson_tott_published.pdf' target = '_blank'>here</a>.
+
+
+<img src = 'https://github.com/albertlarson/nature/blob/main/figs/tott_screenshot.png' height=400 width='auto'>
+
